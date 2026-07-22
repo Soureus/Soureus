@@ -14,6 +14,7 @@ I'm currently taking a gap year to gain industry experience before continuing my
 ## Featured Projects
 
 ### [AI Bench Press Analyzer](https://gitlab.com/feri-group/FormAI)
+**Hosted on GitLab**
 
 **Description**  
 College project for analyzing bench press technique using computer vision and barbell-mounted sensors.
