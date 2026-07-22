@@ -30,9 +30,10 @@ College project for analyzing bench press technique using computer vision and ba
 
 Full technical documentation is available in the GitLab Wiki.
 
-### [FRI-Systems-Programming] (GitHub Link)
+### [FERI-Systems-Programming](https://github.com/Soureus/FERI-Systems-Programming)
 
-Description: Collection of low level projects using C and Asseembly, including...
+**Description**  
+Collection of systems programming projects completed during university, showcasing low-level development in C and x86 Assembly on Linux. Topics include Linux kernel module development, process debugging with `ptrace`, direct hardware interaction through a CMOS RTC driver, Linux system calls, memory management, and x86 Assembly programming.
 
 ### [Gamified Drawing Study App](https://github.com/AnejPo/RPO-projekt)
 
