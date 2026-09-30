@@ -35,7 +35,7 @@ College project for analyzing bench press technique using computer vision and ba
  **Technologies**  
   Python • OpenCV • MediaPipe • PyTorch
 
-Full technical documentation is available in the GitLab Wiki.
+Full technical documentation is available in the [GitLab Wiki](https://gitlab.com/feri-group/FormAI/-/wikis/home).
 
 ### [FERI-Systems-Programming](https://github.com/Soureus/FERI-Systems-Programming)
 
