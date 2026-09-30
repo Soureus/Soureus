@@ -1,12 +1,12 @@
 ## Hi there, I'm Rok 👋
 
 Computer science student at the University of Maribor (FERI - Računalništvo in informacijske tehnologije uni).
-I'm currently taking a gap year to gain industry experience before continuing my studies.
+2nd-year student, available for part-time work.
 
 ## Interests
 - Embedded systems
 - Systems programming
-- Backed development
+- Backend development
 - C
 - Python
 - Assembly
